@@ -1,1 +1,2 @@
-# Sai-Swarup-Beuria-Resume<img width="1280" height="4348" alt="website_screenshot" src="https://github.com/user-attachments/assets/c18d9d3c-513b-4f63-92fa-bfd451212dc1" />
+# Sai-Swarup-Beuria-Resume
+[website_code_readable.html](https://github.com/user-attachments/files/32794924/website_code_readable.html)
